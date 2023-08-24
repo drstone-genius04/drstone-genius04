@@ -26,6 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drstone-genius04&show_icons=true&locale=en" alt="drstone-genius04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drstone-genius04&" alt="drstone-genius04" /></p>
-<img src="https://www.holopin.io/userbadge/cl9kynn1u003109l6haz5sdru" alt="Hacktoberfest Badge">
+
 
 
