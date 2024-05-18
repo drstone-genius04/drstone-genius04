@@ -294,3 +294,4 @@
 2024-05-20T01:32:23: Fixed token limit issues in long prompts
 2024-05-26T02:16:23: Added temperature & max token adjustments
 2024-07-28T06:59:23: Added regex filtering for cleaner inputs
+2024-05-18T14:38:23: Documented best practices for prompt engineering
