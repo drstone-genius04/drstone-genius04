@@ -549,3 +549,4 @@
 2025-02-11T14:18:07: Documented best practices for prompt engineering
 2024-12-14T10:53:07: Enhanced system prompt clarity
 2024-10-29T18:07:07: Added regex filtering for cleaner inputs
+2024-06-24T05:45:07: Updated README with prompt engineering guidelines
