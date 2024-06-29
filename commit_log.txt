@@ -105,3 +105,4 @@
 2024-08-27T23:09:27: Tested new prompting strategies
 2025-02-22T19:08:27: Added regex filtering for cleaner inputs
 2025-05-07T15:19:27: Added regex filtering for cleaner inputs
+2024-06-29T05:55:27: Optimized GPT prompt formatting
