@@ -86,3 +86,4 @@
 2024-05-24T11:43:27: Refactored prompt generation function
 2025-04-04T17:48:27: Testing new prompt strategies
 2024-12-29T16:43:27: Documented best practices for prompt engineering
+2024-07-30T09:58:27: Added temperature & max token adjustments
