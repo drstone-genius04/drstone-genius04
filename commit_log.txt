@@ -91,3 +91,4 @@
 2024-12-08T14:46:27: Added regex filtering for cleaner inputs
 2024-10-16T06:10:27: Improved prompt chaining for coherent responses
 2024-08-06T20:26:27: Fixed token limit issues in long prompts
+2024-11-02T06:46:27: Updated README with prompt engineering guidelines
