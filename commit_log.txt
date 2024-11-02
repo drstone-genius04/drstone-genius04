@@ -202,3 +202,4 @@
 2024-06-05T03:39:23: Updated README with prompt engineering guidelines
 2024-12-26T12:41:23: Added regex filtering for cleaner inputs
 2025-01-22T00:30:23: Added temperature & max token adjustments
+2024-11-02T15:44:23: Tested new prompting strategies
