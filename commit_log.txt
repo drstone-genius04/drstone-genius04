@@ -404,3 +404,4 @@
 2025-03-04T09:21:07: Refactored prompt generation function
 2024-05-22T03:10:07: Improved AI reasoning prompts
 2024-08-30T05:04:07: Refactored user input validation in prompts
+2024-11-06T07:41:07: Updated README with prompt engineering guidelines
