@@ -513,3 +513,4 @@
 2025-04-21T06:19:07: Added interactive prompt testing module
 2024-08-31T05:37:07: Testing new prompt strategies
 2024-10-08T12:30:07: Fixed token limit issues in long prompts
+2025-02-28T00:13:07: Updated README with prompt engineering guidelines
