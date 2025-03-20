@@ -146,3 +146,4 @@
 2024-08-18T10:29:23: Refactored prompt generation function
 2025-02-16T21:28:23: Enhanced zero-shot prompt effectiveness
 2024-09-19T08:14:23: Fixed token limit issues in long prompts
+2025-03-20T11:27:23: Added temperature & max token adjustments
