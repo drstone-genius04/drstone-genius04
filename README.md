@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kingallan.10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/136_vGLToJ7ydyb7cs7jQeumUe7XmPnih/view?usp=sharing](https://drive.google.com/file/d/136_vGLToJ7ydyb7cs7jQeumUe7XmPnih/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1uFgjH6gdTY8Lf6YgCoVavhT08D-vdk47/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
