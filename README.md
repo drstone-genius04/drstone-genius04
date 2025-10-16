@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **MERN,Python,ML ,OPEN AI**
 
-- 📫 How to reach me **kingallan.10@gmail.com**
+- 📫 How to reach me **allan004@umd.edu*
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1uFgjH6gdTY8Lf6YgCoVavhT08D-vdk47/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1aC3wga1UnodnFSnb6vQw7CO8CIuIrBLO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
