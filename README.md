@@ -12,10 +12,19 @@
 - 📄 Know about my experiences (https://drive.google.com/file/d/1aC3wga1UnodnFSnb6vQw7CO8CIuIrBLO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/allan-almeida-a83111201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allan-almeida-a83111201" height="30" width="40" /></a>
-<a href="https://instagram.com/aceallan4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aceallan4" height="30" width="40" /></a>
-<a href="https://discord.gg/ace004#1321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ace004#1321" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/allan-almeida-a83111201" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  
+  <a href="https://instagram.com/aceallan4" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  
+  <a href="https://discord.com/users/ace004" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
